@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/178439213.svg)](https://zenodo.org/badge/latestdoi/178439213)
+
 # Using ground radar overlaps to verify the retrieval of calibration bias estimates from spaceborne platforms
 
 by Irene Crisologo and Maik Heistermann
